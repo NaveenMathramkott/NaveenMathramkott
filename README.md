@@ -1,19 +1,30 @@
-### Hi GuYs, I'm Naveen - 👋
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-## I'm a Frontend Developer...!!
 
-- 🌱 I’m currently learning new stuffs
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Always be strong
+<div align="center">
+  <a href="https://linkedin.com/in/naveenmathramkott"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"  alt="naveenmathramkott | LinkedIn" /></a>
+ <a href=" https://instagram.com/naveemathramkott"> <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="naveenmathramkott | Instagram"  /></a>
+  
+</div>
 
-### Connect with me:
 
-[<img align="left" alt="naveenmathramkott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="naveenmathramkott | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<h1 align="center">I am Naveen</h1>
 
-### Languages and Tools:
+###
+
+<h3 align="left">🖥️  About Me</h3>
+
+###
+
+<p align="left">-> I’m a React Developer<br>-> Over 3 year+ industrial experience<br>-> ZeroPixelanian<br> 
+
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,33 +39,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
 
----
 
-### 📕 Latest Blog Posts
+<br/>
 
-<!-- BLOG-POST-LIST:START -->
+###
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/naveenmathramkott/portfolio-sass/issues/2) in [c](https://github.com/naveenmathramkott/) -->
-<!-- 2. ❗️ Closed issue [#2](https://github.com/naveenmathramkott/portfolio-sass/issues/2) in [](https://github.com/naveenmathramkott/) -->
-<!-- 3. ❌ Closed PR [#11](https://github.com/naveenmathramkott/free-developer-resources/pull/11) in [](https://github.com/naveenmathramkott/) -->
-<!-- 4. 🗣 Commented on [#11](https://github.com/naveenmathramkott/free-developer-resources/issues/11) in [](https://github.com/naveenmathramkott/) -->
-<!-- 5. 🎉 Merged PR [#10](https://github.com/naveenmathramkott/free-developer-resources/pull/10) in [](https://github.com/naveenmathramkott/) -->
-<!--END_SECTION:activity-->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NaveenMathramkott&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-</details>
+###
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="naveenmathramkott's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=naveenmathramkott&show_icons=true&hide_border=true" />
 
-</details>
 
-[instagram]: https://instagram.com/naveemathramkott
-[linkedin]: https://linkedin.com/in/naveenmathramkott
+
+
