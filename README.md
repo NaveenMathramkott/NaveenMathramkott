@@ -11,7 +11,7 @@ I've been working as a Frontend React developer for the past 4 plus years.
 * 🖥️  See my portfolio at [website](http://naveenmathramkott.vercel.app)
 * ✉️  You can contact me at [naveenmathramkott@gmail.com](mailto:naveenmathramkott@gmail.com)
 * 🚀  I'm currently working on [Blockchain app](http://github.com/NaveenMathramkott/crypto-pay)
-* 🧠  Now I'm learning Blockchain, Solidity, GraphQL.
+* 🧠  Now I'm learning Blockchain, Solidity, Crypto.
 
 ### Skills
 
