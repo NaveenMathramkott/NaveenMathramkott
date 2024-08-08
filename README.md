@@ -5,13 +5,13 @@ My name is Naveen M S
 Web and Mobile Developer
 ------------------------
 
-I've been working as a Frontend React developer for the past 4 plus years.
+I've been working as a Frontend React developer for the past 5 plus years.
 
 * 🌍  I'm based in Dubai, ARE
 * 🖥️  See my portfolio at [website](http://naveenmathramkott.vercel.app)
 * ✉️  You can contact me at [naveenmathramkott@gmail.com](mailto:naveenmathramkott@gmail.com)
-* 🚀  I'm currently working on [Blockchain app](http://github.com/NaveenMathramkott/crypto-pay)
-* 🧠  Now I'm learning Blockchain, Solidity, Crypto.
+* 🚀  I'm currently working on [Three js app](https://github.com/NaveenMathramkott/personal-portfolio)
+* 🧠  Now I'm learning 3D, AR and VR.
 
 ### Skills
 
