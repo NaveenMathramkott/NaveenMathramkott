@@ -8,9 +8,9 @@ Web and Mobile Developer
 I've been working as a Frontend React developer for the past 5 plus years.
 
 * 🌍  I'm based in Dubai, ARE
-* 🖥️  See my portfolio at [website](http://naveenmathramkott.vercel.app)
+* 🖥️  See my portfolio at [website](https://naveenmathramkott-profile-threejs.netlify.app/)
 * ✉️  You can contact me at [naveenmathramkott@gmail.com](mailto:naveenmathramkott@gmail.com)
-* 🚀  I'm currently working on [Three js app](https://github.com/NaveenMathramkott/personal-portfolio)
+* 🚀  I'm currently working on [Three js app](https://github.com/NaveenMathramkott/real-estate-mern)
 * 🧠  Now I'm learning 3D, AR and VR.
 
 ### Skills
