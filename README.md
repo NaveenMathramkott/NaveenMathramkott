@@ -31,7 +31,7 @@ I've been working as a Frontend React developer for the past 5 plus years.
 
 <a href="http://www.github.com/NaveenMathramkott/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenMathramkott/&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaveenMathramkott&theme=dark&border_radius=5)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NaveenMathramkott&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
 ###
 
 
