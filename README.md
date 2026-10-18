@@ -141,23 +141,6 @@
 </table>
 
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-<div  style="display: flex; flex-wrap: wrap; justify-content: center;  border:1px solid #ccc; border-radius:10px; padding:10px; ">
-
-<a href="https://github.com/naveenmathramkott/react-native-expo-kanban"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenmathramkott&repo=react-native-expo-kanban&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="react-native-expo-kanban"/></a>
-<a href="https://github.com/naveenmathramkott/finwise-react-native"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenmathramkott&repo=finwise-react-native&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="finwise-react-native"/></a>
-<a href="https://github.com/naveenmathramkott/Nutrideliver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenmathramkott&repo=Nutrideliver&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Nutrideliver"/></a>
-<a href="https://github.com/naveenmathramkott/helmetto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenmathramkott&repo=helmetto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="helmetto"/></a>
-<a href="https://github.com/naveenmathramkott/cocotein-brand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenmathramkott&repo=cocotein-brand&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="cocotein-brand"/></a>
-<a href="https://github.com/naveenmathramkott/figma-clone-nextjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naveenmathramkott&repo=figma-clone-nextjs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="figma-clone-nextjs"/></a>
-
-</div>
-
-
-
 
 
 ---
